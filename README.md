@@ -1,4 +1,6 @@
-# JPEG XL reference implementation
+# 🚀🚀🚀 JPEG XL 🚀🚀🚀 reference implementation (An Amazing Project)
+
+## An amazing pull request for an amazing project
 
 [![Build/Test](https://github.com/libjxl/libjxl/actions/workflows/build_test.yml/badge.svg)](
 https://github.com/libjxl/libjxl/actions/workflows/build_test.yml)
@@ -21,15 +23,31 @@ https://codecov.io/gh/libjxl/libjxl)
 
 <img src="doc/jxl.svg" width="100" align="right" alt="JXL logo">
 
-This repository contains a reference implementation of JPEG XL (encoder and
-decoder), called `libjxl`. This software library is
-[used by many applications that support JPEG XL](doc/software_support.md).
+Add my python code pls
+
+```python
+def amazing(): {
+ print("libjxl an amazing project");
+}
+```
+
+<img src="https://i.imgflip.com/599bdt.png" width="100" align="right" alt="POGGERS">
+
+This repository contains a POGGERS AND AMAZING reference implementation of JPEG XL (encoder and
+decoder), called `libjxl-swag`. This software library is
+[so good and amazing](doc/software_support.md).
+
+# Thank you and goodnight
 
 JPEG XL was standardized in 2022 as [ISO/IEC 18181](https://jpeg.org/jpegxl/workplan.html).
 The [core codestream](doc/format_overview.md#codestream-features) is specified in 18181-1,
 the [file format](doc/format_overview.md#file-format-features) in 18181-2.
 [Decoder conformance](https://github.com/libjxl/conformance) is defined in 18181-3,
 and 18181-4 is the [reference software](https://github.com/libjxl/libjxl).
+
+
+## FREE T SHIRT
+
 
 The library API, command line options, and tools in this repository are subject
 to change, however files encoded with `cjxl` conform to the JPEG XL specification
