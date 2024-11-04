@@ -157,3 +157,6 @@ If you encounter a bug or other issue with the software, please open an Issue he
 There is a [subreddit about JPEG XL](https://www.reddit.com/r/jpegxl/), and
 informal chatting with developers and early adopters of `libjxl` can be done on the
 [JPEG XL Discord server](https://discord.gg/DqkQgDRTFu).
+
+wfjaweofjasosjfoisjfowejf09wruf09sUF)JF)EFjw09fjw498afj9pjPOJOJ
+
